@@ -213,8 +213,9 @@ footer {
 }
 @media (min-width: 768px) {
     .wrapper {
+        border: 5px solid white;
 /*         min-width: 728px; */
-/*         width: 100%; */
+        width: 100%;
 /*         max-width: 1000px; */
         height: 100vh;
         padding: 40px;
