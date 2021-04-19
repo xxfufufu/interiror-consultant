@@ -10,7 +10,7 @@ body {
 }
 .wrapper {
     width: 375px;
-    margin: -20px auto 0px auto;
+/*     margin: -20px auto 0px auto; */
     background-color: #181719;
     padding: 20px 12px;
     height: 35vh;
